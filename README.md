@@ -1,4 +1,4 @@
-This project explores a comprehensive dataset capturing sales, profit, and budgeting details for various coffee-related products across different cities and markets in 2019. The dataset includes 4,248 entries and features detailed metrics such as:
+This project explores a comprehensive dataset capturing sales, profit, and budgeting details for various coffee-related products across different cities and markets in 2018 and 2019. The dataset includes 4,248 entries and features detailed metrics such as:
 
 Financial figures: Sales, Profit, Margin, Cost of Goods Sold (COGS), Marketing spend, Inventory, and Total Expenses
 
